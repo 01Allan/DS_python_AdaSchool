@@ -1,2 +1,3 @@
-# DS_python_AdaSchool
-Todos los trabajos en python hechos en el bootcamp de Data Science de Protalento. 
+# Repositorio de Python - Data Science
+
+Este repositorio iré subiendo todos los trabajos del bootcamp, cada trabajao irá en una carpeta específica.
